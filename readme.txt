@@ -1,0 +1,1 @@
+input data named x, data named y,industrial number named industy,final file named data.
